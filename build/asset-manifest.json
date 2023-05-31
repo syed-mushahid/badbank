@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4a0cc23.css",
+    "main.js": "/static/js/main.73c917da.js",
+    "static/media/Sora-Medium.ttf": "/static/media/Sora-Medium.c7d89ac9453bb39b7613.ttf",
+    "static/media/credit.gif": "/static/media/credit.91ccf55c1bd2cfa1ab7f.gif",
+    "static/media/profile.png": "/static/media/profile.5faf09a7795d28bf5a2b.png",
+    "static/media/google-logo.png": "/static/media/google-logo.ff5bee475b1d18fb08ec.png",
+    "index.html": "/index.html",
+    "main.d4a0cc23.css.map": "/static/css/main.d4a0cc23.css.map",
+    "main.73c917da.js.map": "/static/js/main.73c917da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a0cc23.css",
+    "static/js/main.73c917da.js"
+  ]
+}
